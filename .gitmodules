@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/shim369/React-TypeScript-Rails-Crud-App-Frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/shim369/React-TypeScript-Rails-Crud-App-Backend
